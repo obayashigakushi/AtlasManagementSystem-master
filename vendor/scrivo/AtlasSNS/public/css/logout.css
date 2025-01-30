@@ -1,0 +1,242 @@
+@charset "UTF-8";
+
+html {
+    height: auto;
+}
+
+body {
+    height: auto;
+    background: #186AC9;
+}
+
+section {
+    background-color: #ccd8ff;
+    padding: 50px 0;
+
+}
+
+header {
+    text-align: center;
+    color: #fff;
+    padding-top: 18%;
+}
+
+.logout-img {
+    width: 120px;
+    height: 50px;
+    margin-bottom: -5px;
+}
+
+.logout-title {
+    font-size: 35px;
+    font-weight: 220;
+    margin-bottom: 2%;
+}
+
+.login .logout {
+    width: 280px;
+    height: 330px;
+    background-color: rgba(105, 105, 105, 0.40);
+    margin: 0 auto;
+    color: #fff;
+    border-radius: 15px;
+
+
+
+}
+
+
+.alert {
+    text-align: center;
+}
+
+div.gla {
+    min-height: 100vh;
+    background-color: #79e6fc;
+    background-image: linear-gradient(0deg, #ffe72e 0%, #22baf7 37%, #186AC9 100%);
+}
+
+div.label {
+
+    display: block;
+}
+
+.label p {
+
+    text-align: center;
+    font-size: 17px;
+    padding-top: 13%;
+}
+
+.form,
+input {
+
+    text-align: center;
+    border-radius: 7px;
+    padding: 4px 27px;
+    border: 0px;
+}
+
+.e-mail {
+    font-size: 13px;
+    padding-right: 70%;
+    font-weight: 300;
+
+
+}
+
+.password {
+    font-size: 13px;
+    padding-right: 80%;
+    font-weight: 300;
+
+    margin-top: 20px;
+}
+
+.link {
+    color: #fff;
+    font-size: 13px;
+    font-weight: lighter;
+
+}
+
+input.btn {
+    width: 120px;
+    height: 35px;
+    border-radius: 7px;
+
+    margin: 15px 0 0 108px;
+    font-weight: 300;
+}
+
+
+/* register画面 */
+
+.register header {
+    text-align: center;
+    color: #fff;
+    padding-top: 7%;
+}
+
+.register .logout {
+    width: 280px;
+    height: 480px;
+    background-color: rgba(105, 105, 105, 0.40);
+    margin: 0 auto;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.register .logout-title {
+    font-size: 35px;
+    font-weight: 220;
+    margin-bottom: 0%;
+}
+
+.register .form,
+input {
+
+    text-align: center;
+    border-radius: 7px;
+    padding: 4px 27px;
+    border: 0px;
+
+}
+
+.username {
+    font-size: 13px;
+    padding-right: 72%;
+    font-weight: 300;
+
+}
+
+.register .e-mail {
+    font-size: 13px;
+    padding-right: 70%;
+    font-weight: 300;
+    margin-top: 20px;
+
+}
+
+.confirm {
+    font-size: 13px;
+    padding-right: 52%;
+    font-weight: 300;
+
+    margin-top: 20px;
+}
+
+.register .link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 100;
+    padding-top: 20px;
+}
+
+.register input.btn {
+    width: 120px;
+    height: 35px;
+    border-radius: 7px;
+
+    margin: 15px 0 0 108px;
+    font-weight: 300;
+}
+
+
+/* added */
+
+.added .logout {
+    width: 280px;
+    height: 260px;
+    background-color: rgba(105, 105, 105, 0.40);
+    margin: 0 auto;
+    color: #fff;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
+
+.added .label p {
+
+    text-align: center;
+    padding: 0;
+}
+
+.added .hallow {
+    font-size: 13px;
+    padding: 0;
+    padding-top: 20px;
+    margin: -5px;
+}
+
+.added .btn {
+    width: 120px;
+    height: 35px;
+    border-radius: 7px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 13px;
+
+}
+
+.added .title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    font-weight: bold;
+
+}
+
+.added .subtitle {
+
+    padding-bottom: 40px;
+
+}
+
+.added .t {
+    margin: -5px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
